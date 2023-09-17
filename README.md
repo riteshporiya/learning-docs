@@ -6,11 +6,11 @@ Welcome to the Design Patterns and SOLID Principles repository! Here, you'll fin
 
 Explore the SOLID principles, a set of five design principles that promote good software design:
 
-1. **Single Responsibility Principle (SRP) 🕊️**: [Learn More]Design%20Patterns/SOLID%20Design%20Principles/SingleResponsibilityPrinciple.md)
-2. **Open/Closed Principle (OCP) 🚪**: [Learn More]Design%20Patterns/SOLID%20Design%20Principles/OpenClosedPrinciple.md)
-3. **Liskov Substitution Principle (LSP) 🔄**: [Learn More]Design%20Patterns/SOLID%20Design%20Principles/LiskovSubstitutionPrinciple.md)
-4. **Interface Segregation Principle (ISP) 🏗️**: [Learn More](Design%20Patterns/SOLID%20Design%20Principles/InterfaceSegregationPrinciple.md)
-5. **Dependency Inversion Principle (DIP) 🔄**: [Learn More](Design%20Patterns/SOLID%20Design%20Principles/DependencyInversionPrinciple.md)
+1. **Single Responsibility Principle (SRP) 🕊️**: [Learn More](Design%20Patterns/SOLID%20Design%20Principles/Single%20Responsibiity%20Principle.md)
+2. **Open/Closed Principle (OCP) 🚪**: [Learn More](Design%20Patterns/SOLID%20Design%20Principles/Open-Closed%20Principle.md)
+3. **Liskov Substitution Principle (LSP) 🔄**: [Learn More](Design%20Patterns/SOLID%20Design%20Principles/Liskov%20Substitution%20Principle.md)
+4. **Interface Segregation Principle (ISP) 🏗️**: [Learn More](Design%20Patterns/SOLID%20Design%20Principles/Interface%20Segregation%20Principle.md)
+5. **Dependency Inversion Principle (DIP) 🔄**: [Learn More](Design%20Patterns/SOLID%20Design%20Principles/Dependency%20Inversion%20Principle.md)
 
 ## Creational Design Patterns 🏗️
 
