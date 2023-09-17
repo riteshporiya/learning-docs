@@ -6,20 +6,20 @@ Welcome to the Design Patterns and SOLID Principles repository! Here, you'll fin
 
 Explore the SOLID principles, a set of five design principles that promote good software design:
 
-1. **Single Responsibility Principle (SRP) 🕊️**: [Learn More](Design Patterns/SOLID Design Principles/Single Responsibiity Principle.md)
-2. **Open/Closed Principle (OCP) 🚪**: [Learn More](Design Patterns/SOLID Design Principles/Open-Closed Principle.md)
-3. **Liskov Substitution Principle (LSP) 🔄**: [Learn More](Design Patterns/SOLID Design Principles/Liskov Substitution Principle.md)
-4. **Interface Segregation Principle (ISP) 🏗️**: [Learn More](Design Patterns/SOLID Design Principles/Interface Segregation Principle.md)
-5. **Dependency Inversion Principle (DIP) 🔄**: [Learn More](Design Patterns/SOLID Design Principles/Dependency Inversion Principle.md)
+1. **Single Responsibility Principle (SRP) 🕊️**: [Learn More]Design%20Patterns/SOLID%20Design%20Principles/SingleResponsibilityPrinciple.md)
+2. **Open/Closed Principle (OCP) 🚪**: [Learn More]Design%20Patterns/SOLID%20Design%20Principles/OpenClosedPrinciple.md)
+3. **Liskov Substitution Principle (LSP) 🔄**: [Learn More]Design%20Patterns/SOLID%20Design%20Principles/LiskovSubstitutionPrinciple.md)
+4. **Interface Segregation Principle (ISP) 🏗️**: [Learn More](Design%20Patterns/SOLID%20Design%20Principles/InterfaceSegregationPrinciple.md)
+5. **Dependency Inversion Principle (DIP) 🔄**: [Learn More](Design%20Patterns/SOLID%20Design%20Principles/DependencyInversionPrinciple.md)
 
 ## Creational Design Patterns 🏗️
 
 Dive into various creational design patterns that help manage object creation complexities:
 
-1. **Builder Pattern 🏗️**: [Learn More](Design Patterns/Creational/Builder Pattern.md)
-2. **Factory Pattern 🏭**: [Learn More](Design Patterns/Creational/Factories.md)
-3. **Prototype Pattern 🔄**: [Learn More](Design Patterns/Creational/Prototype.md)
-4. **Singleton Pattern ☝️**: [Learn More](Design Patterns/Creational/Singleton.md)
+1. **Builder Pattern 🏗️**: [Learn More](Design%20Patterns/Creational/Builder%20Pattern.md)
+2. **Factory Pattern 🏭**: [Learn More](Design%20Patterns/Creational/Factories.md)
+3. **Prototype Pattern 🔄**: [Learn More](Design%20Patterns/Creational/Prototype.md)
+4. **Singleton Pattern ☝️**: [Learn More](Design%20Patterns/Creational/Singleton.md)
 
 ## Contributions Welcome! 🙌
 
